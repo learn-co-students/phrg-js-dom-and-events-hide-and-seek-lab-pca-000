@@ -144,3 +144,4 @@ Have fun, and good luck!
 - [document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 - [parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
 - [Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
+<p data-visibility='hidden'>PHRG JavaScript Hide and Seek</p>
