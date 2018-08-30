@@ -138,6 +138,9 @@ might come in handy here.
 
 Have fun, and good luck!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-hide-and-seek-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-hide-and-seek-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
